@@ -1,6 +1,6 @@
 # Global-Covid-19-Tracker
 
-# 📌 Overview
+# Overview
 This project analyzes global COVID-19 data, including:
 
 ✔ Cases & Deaths (total and daily trends)
@@ -13,12 +13,12 @@ This project analyzes global COVID-19 data, including:
 
 Built with Python (pandas, matplotlib, seaborn, plotly).
 
-# 🚀 Installation & Setup
+# Installation & Setup
 1. Clone the Repository
-git clone https://github.com/CodeWithCal-W/Python-Week-8-Global-Covid-19-Tracker.git  
-cd covid-19-tracker
+git clone https://github.com/CodeWithCal-W/Python-Week-8-Global-Covid-19-Tracker.git 
 
-3. Install Dependencies
+2. Install Dependencies
+   
    pandas>=1.3.0
    
    numpy>=1.21.0
@@ -31,14 +31,14 @@ cd covid-19-tracker
    
    jupyter>=1.0.0
    
-5. Run the Analysis
+3. Run the Analysis
 Open in Jupyter Notebook/Lab
 
 Execute all cells (Kernel > Restart & Run All)
 
 (Alternatively, run as a Python script if adapted.)
 
-#📊 Key Features
+# Key Features
 
 # Data Cleaning & Preprocessing
 

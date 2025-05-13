@@ -1,0 +1,25 @@
+ Key Insights & Summary
+Findings:
+Case Trends
+
+The United States and India had the highest total cases.
+
+Kenya and South Africa had slower initial spread but later surges.
+
+Death Rates
+
+The United Kingdom had the highest death rate (~1.8%).
+
+Kenya had a lower death rate (~1.2%), possibly due to demographics.
+
+Vaccination Progress
+
+The UK and US had the fastest vaccine rollouts.
+
+Kenya and India lagged due to supply constraints.
+
+Global Patterns
+
+Cases per million were highest in Europe & North America.
+
+Vaccination rates correlated with national income levels.

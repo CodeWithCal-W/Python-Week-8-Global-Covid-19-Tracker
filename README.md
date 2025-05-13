@@ -11,7 +11,7 @@ Built with Python (pandas, matplotlib, seaborn, plotly).
 
 # 🚀 Installation & Setup
 1. Clone the Repository
-git clone https://github.com/yourusername/covid-19-tracker.git  
+git clone https://github.com/CodeWithCal-W/Python-Week-8-Global-Covid-19-Tracker.git  
 cd covid-19-tracker  
 2. Install Dependencies
    pandas>=1.3.0
